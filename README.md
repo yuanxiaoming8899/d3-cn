@@ -1,12 +1,11 @@
-# D3: Data-Driven Documents
-
-<a href="https://d3js.org"><img src="./docs/public/logo.svg" width="256" height="256"></a>
-
-**D3** (or **D3.js**) is a free, open-source JavaScript library for visualizing data. Its low-level approach built on web standards offers unparalleled flexibility in authoring dynamic, data-driven graphics. For more than a decade D3 has powered groundbreaking and award-winning visualizations, become a foundational building block of higher-level chart libraries, and fostered a vibrant community of data practitioners around the world.
-
-## Resources
-
-* [Documentation](https://d3js.org)
-* [Examples](https://observablehq.com/@d3/gallery)
-* [Releases](https://github.com/d3/d3/releases)
-* [Getting help](https://d3js.org/community)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><h1 tabindex="-1" dir="auto"><a id="user-content-d3-data-driven-documents" class="anchor" aria-hidden="true" tabindex="-1" href="#d3-data-driven-documents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D3：数据驱动文档</font></font></h1>
+<p dir="auto"><a href="https://d3js.org" rel="nofollow"><img src="/d3/d3/raw/main/docs/public/logo.svg" width="256" height="256" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D3</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（或</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D3.js</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）是一个免费的开源 JavaScript 库，用于可视化数据。</font><font style="vertical-align: inherit;">其基于 Web 标准构建的低级方法为创作动态、数据驱动的图形提供了无与伦比的灵活性。</font><font style="vertical-align: inherit;">十多年来，D3 推动了突破性且屡获殊荣的可视化，成为高级图表库的基础构建块，并在世界各地培育了一个充满活力的数据从业者社区。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-resources" class="anchor" aria-hidden="true" tabindex="-1" href="#resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></h2>
+<ul dir="auto">
+<li><a href="https://d3js.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="https://observablehq.com/@d3/gallery" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">例子</font></font></a></li>
+<li><a href="https://github.com/d3/d3/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布</font></font></a></li>
+<li><a href="https://d3js.org/community" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求帮助</font></font></a></li>
+</ul>
+</article></div>
